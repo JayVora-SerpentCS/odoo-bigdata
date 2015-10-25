@@ -2,7 +2,7 @@
 
 Linking Odoo with Big Data
 
-The purpose of this project is to be futuristic!
+The purpose of this project is to be futuristic! Odoo is growing and gradually it becomes suitable for Big Enterprises too and in that case the need of Big data arises! SerpenCS(http://www.serpentcs.com) has thought of such an initiative, let's join efforts!
 
 From DataCentral(http://www.datasciencecentral.com/profiles/blogs/big-data-20-mind-boggling-facts-everyone-must-read):
 
@@ -18,5 +18,6 @@ Let us have some references to know what is what and how to start.
 - Getting Started with Hadoop (https://developer.yahoo.com/hadoop/tutorial/module3.html)
 - Know Hadoop and MongoDB (https://docs.mongodb.org/ecosystem/tutorial/getting-started-with-hadoop/)
 
+Guidance and suggestions needed!
 
 
